@@ -9,7 +9,7 @@ public class MyspringbootdemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyspringbootdemoApplication.class, args);
 		//System.out.println("nihao  github");
-		System.out.println("welcome github");
+		System.out.println("me github");
 		
 }
 }
